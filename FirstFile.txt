@@ -1,1 +1,3 @@
-This is a dumy code.
+This is some dumy code.
+
+This is a change made on GitHub WEB.
